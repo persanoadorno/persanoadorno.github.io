@@ -1,4 +1,4 @@
 # My Personal Website!
 
 Html Project for my **Personal Website**, made with no-code website builder mytemplate.xyz.
-![screely-1647629598464](https://user-images.githubusercontent.com/94073410/159066444-556f0afa-1ebf-4f6c-b261-ed0ff67ee093.png)
+![screely-1647629981436](https://user-images.githubusercontent.com/94073410/159067658-92c85c4d-dbaf-452e-b16c-505da2f2238d.png)
