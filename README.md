@@ -6,4 +6,8 @@ Html Project for my **Personal Website**, made with no-code website builder myte
 
 
 
-![screely-1647962709606](https://user-images.githubusercontent.com/94073410/159518271-eeb5e915-edff-46b8-b470-ed40463ee8c7.png)
+
+
+
+
+![frame_generic_dark](https://user-images.githubusercontent.com/94073410/159520812-461a2a98-caa7-4595-b462-e4baff41b838.png)
